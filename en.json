@@ -3,6 +3,7 @@
         "TITLE": "Login",
         "USERNAME": "Username",
         "PASSWORD": "Password",
-        "SUBMIT": "Submit"
+        "SUBMIT": "Send"
     }
+
 }
