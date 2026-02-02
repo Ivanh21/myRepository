@@ -3,6 +3,7 @@
         "TITLE": "Connexion",
         "USERNAME": "Nom d'utilisateur",
         "PASSWORD": "Mot de passe",
-        "SUBMIT": "Se connecter"
+        "SUBMIT": "Valider"
     }
+
 }
