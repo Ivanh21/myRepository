@@ -1,10 +1,12 @@
 {
+    "version": "1.0.1",
     "LOGIN": {
         "TITLE": "Login",
         "USERNAME": "Username",
         "PASSWORD": "Password",
-        "SUBMIT": "Submit"
+        "SUBMIT": "Confirm"
     }
 
 }
+
 
