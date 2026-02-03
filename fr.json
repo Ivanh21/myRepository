@@ -1,13 +1,14 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "LOGIN": {
         "TITLE": "Connexion",
         "USERNAME": "Nom d'utilisateur",
         "PASSWORD": "Mot de passe",
-        "SUBMIT": "Valider"
+        "SUBMIT": "Enregistrer"
     }
 
 }
+
 
 
 
